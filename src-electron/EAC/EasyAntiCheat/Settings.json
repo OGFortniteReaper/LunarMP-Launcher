@@ -1,0 +1,11 @@
+{
+	"title"											: "Lunar",
+	"executable"									: "FortniteClient-Win64-Shipping.exe",
+	"productid"										: "16f6f0b4137d44418bcf9baac277c6b3",
+	"sandboxid"										: "07a92615ad9941a99e41a8e8ce98f2f7",
+	"deploymentid"									: "717186466bf9486aabe95e64eff81ee4",
+	"requested_splash"								: "EasyAntiCheat/SplashScreen.png",
+	"wait_for_game_process_exit"					: "false",
+	"hide_bootstrapper"								: "false",
+	"hide_gui"										: "false"
+}
